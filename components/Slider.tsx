@@ -54,7 +54,7 @@ const slides: Slide[] = [
     description: "Dans le but de vous divertir, nous produisons des films libre d'accès !",
     buttonText: "Suivre les films",
     link: "/nos-films",
-    image: "/images/Cinema.webp",
+    image: "/images/Films.png",
     gradient: "from-emerald-900/40 via-teal-900/30 to-transparent",
   },
   {
