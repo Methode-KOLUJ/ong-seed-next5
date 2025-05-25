@@ -90,7 +90,7 @@ export default function ContactForm() {
     setSubmitError(null);
 
     try {
-      const response = await fetch("https://kolujdev.onrender.com/inscription", {
+      const response = await fetch("https://ong-seed.onrender.com/inscription", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
