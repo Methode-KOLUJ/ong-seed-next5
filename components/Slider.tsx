@@ -62,7 +62,7 @@ const slides: Slide[] = [
     description: "Devenez partenaire, donateur ou bénévole de notre organisation.",
     buttonText: "Je veux postuler",
     link: "/postuler",
-    image: "/images/ONG SEED.png",
+    image: "/images/ONG-SEED.png",
     gradient: "from-teal-900/40 via-emerald-900/30 to-transparent",
   },
 ];
