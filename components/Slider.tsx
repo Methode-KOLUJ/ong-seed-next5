@@ -47,7 +47,7 @@ const slides: Slide[] = [
     buttonText: "Visiter la boutique",
     link: "/",
     image: "/images/Boutique.jpg",
-    gradient: "from-amber-900/70 via-red-900/60 to-transparent",
+    gradient: "from-amber-900/50 via-red-900/50 to-transparent",
   },
   {
     title: "Production cinématographique",
