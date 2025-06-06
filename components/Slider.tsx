@@ -149,7 +149,7 @@ const SlideContent = memo<SlideContentProps>(({ slide, index }) => {
               href={slide.link}
               className="inline-block relative overflow-hidden group"
             >
-              <span className="absolute inset-0 bg-white/10 group-hover:bg-white transition-all duration-500 rounded-full" />
+              <span className="absolute inset-0 bg-white/90 group-hover:bg-white transition-all duration-500 rounded-full" />
               <span className="relative z-10 flex items-center justify-center font-extrabold bg-transparent border-2 border-white text-gray-400 hover:text-gray-600 px-8 py-3 rounded-full text-lg font-medium hover:bg-white transition-all duration-300">
                 {slide.buttonText}
                 <motion.span 
