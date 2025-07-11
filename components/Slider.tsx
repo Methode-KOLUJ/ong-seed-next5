@@ -42,14 +42,6 @@ const slides: Slide[] = [
     gradient: "from-red-900/40 to-transparent",
   },
   {
-    title: "Boutique officielle",
-    description: "Nous vendons des articles pour soutenir notre mission humanitaire.",
-    buttonText: "Visiter la boutique",
-    link: "/",
-    image: "/images/Boutique.jpg",
-    gradient: "from-amber-900/10 to-transparent",
-  },
-  {
     title: "Production des films",
     description: "Dans le but de vous divertir, nous produisons des films libre d'accès !",
     buttonText: "Suivre les films",
