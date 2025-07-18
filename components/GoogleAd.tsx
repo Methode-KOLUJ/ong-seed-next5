@@ -32,7 +32,7 @@ export default function GoogleAd({
       {children}
       <ins
         className="adsbygoogle"
-        style={{ display: 'block' }}
+        style={{ display: 'hidden' }}
         data-ad-client="ca-pub-8295063989085416"
         data-ad-slot={adSlot}
         data-ad-format={format}
