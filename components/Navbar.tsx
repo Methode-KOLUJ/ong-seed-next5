@@ -74,7 +74,7 @@ const MENU_ITEMS: MenuItem[] = [
     ],
   },
   { path: '/conversations', name: 'Chatbot', icon: FaRobot, iconColor: 'text-gray-300' },
-  { path: '/boutique', name: 'Boutique', icon: FaShop, iconColor: 'text-purple-400' },
+  { path: 'boutique-seed.com, name: 'Boutique', icon: FaShop, iconColor: 'text-purple-400' },
 ];
 
 const Navbar = () => {
