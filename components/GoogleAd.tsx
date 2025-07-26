@@ -33,7 +33,7 @@ export default function GoogleAd({
       <ins
         className="adsbygoogle"
         style={{ display: 'block' }}
-        data-ad-client="ca-pub-8295063989085416"
+        data-ad-client="ca-pub-4867090224776887"
         data-ad-slot={adSlot}
         data-ad-format={format}
         data-full-width-responsive={responsive ? 'true' : 'false'}
